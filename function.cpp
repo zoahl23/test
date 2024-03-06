@@ -1,5 +1,5 @@
 #include “function.h”
-int search(int *arr, int length, int value);
+int find_min(int *arr, int length);
 {
-//code
+// code
 }
